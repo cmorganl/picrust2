@@ -28,6 +28,7 @@ setup(name='PICRUSt2',
                     ['MinPath/MinPath12hmp.py',
                      'Rscripts/*R',
                      'default_files/prokaryotic/*',
+                     'default_files/prokaryotic/pro_ref/*',
                      'default_files/pathway_mapfiles/*',
                      'default_files/description_mapfiles/*']},
       long_description=long_description)
